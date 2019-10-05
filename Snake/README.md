@@ -33,4 +33,4 @@ More info about the [game][game_link]
 
 [of_link]: https://openframeworks.cc
 [game_link]: https://el.wikipedia.org/wiki/Snake_(%CE%B2%CE%B9%CE%BD%CF%84%CE%B5%CE%BF%CF%80%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9)
-[snake_image]:(/images/snake_img.png)
+[snake_image]:(../images/snake_img.png)
