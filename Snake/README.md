@@ -2,14 +2,14 @@
 
 ![snake][snake_image]
 
-The game can be found and played in the folder "Snake/bin/Snake_debug.exe"
+<h4>The game can be found and played in the folder "Snake/bin/Snake_debug.exe"
 
-Keys:
+**Keys:**
 * Spacebar to start the game
 * arrows to navigate and control the snake
 
 
-It contains:
+**It contains:**
 * Snake movement using 2d vector calculations
 * Detects collision with a wall or itself
 * An efficient reward generation algorithm which avoids the position occupied by the snake
@@ -19,7 +19,7 @@ It contains:
 	* looking the target
 
 
-Things to add in the future:
+**Things to add in the future:**
 * swallow animiation
 * improved gui
 * sound
