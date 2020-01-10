@@ -1,6 +1,6 @@
 *<h3>This project is an implementation of the classic game snake*
 
-![snake][snake_image]
+![snake][snake]
 
 <h4>The game can be found and played in the folder "Snake/bin/Snake_debug.exe"
 
