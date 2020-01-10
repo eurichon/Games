@@ -1,6 +1,6 @@
 *<h3>This project is an implementation of the classic game snake*
 
-![snake][snake]
+![snake][snake_img]
 
 <h4>The game can be found and played in the folder "Snake/bin/Snake_debug.exe"
 
@@ -33,4 +33,4 @@ More info about the [game][game_link]
 
 [of_link]: https://openframeworks.cc
 [game_link]: https://el.wikipedia.org/wiki/Snake_(%CE%B2%CE%B9%CE%BD%CF%84%CE%B5%CE%BF%CF%80%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9)
-[snake]: https://github.com/eurichon/Games/blob/master/Snake/images/snake.png
+[snake_img]: https://github.com/eurichon/Games/blob/master/Snake/images/snake.PNG
